@@ -10,7 +10,6 @@
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![Socket Programming](https://img.shields.io/badge/Socket_Programming-2C2255?style=for-the-badge) 
-
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
