@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=gangulwar&icon=1&color=0" alt="Visitor Count" />
+  <img src="https://hits.sh/github.com/gangulwar.svg?style=for-the-badge&label=profile%20views" alt="Visitor Count" />
 </p>
 
 # 💻 Tech Stack:
