@@ -2,7 +2,7 @@
   <img src="https://hits.sh/github.com/gangulwar.svg?style=for-the-badge&label=profile%20views" alt="Visitor Count" />
 </p>
 
-# 💻 Tech Stack:
+# 💻 Skills:
 ![Java](https://img.shields.io/badge/java-3DDC84?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
